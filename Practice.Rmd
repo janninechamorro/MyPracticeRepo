@@ -1,0 +1,16 @@
+---
+title: "My Practice Code"
+author: "Jannine Chamorro"
+date: "8/3/2020"
+output: html_document
+---
+
+HERE IS SOME STUFF
+```{r}
+1+2+3
+```
+
+```{r}
+6+8+8
+```
+
